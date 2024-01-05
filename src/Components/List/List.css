@@ -1,0 +1,22 @@
+#calculations {
+    font-size: 21px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+
+#reset {
+    padding: 10px 15px 10px 15px;
+    margin-right: 30px;
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    font-size: 16px;
+    box-shadow: 2px 3px 3px black;
+    cursor: pointer;
+}
+
+#reset:active{
+    box-shadow: none;
+    scale: 1.05;
+}
